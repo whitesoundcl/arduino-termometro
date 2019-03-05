@@ -6,3 +6,4 @@ En sí, como proyecto no tiene mucha utilidad, sin embargo se puede aprender de 
 
 A este proyecto lo acompaña un [vídeo que creé para demostrar su funcionamiento](https://www.youtube.com/watch?v=U6HNxZPBdHQ)
 
+![Imagen esquema](https://raw.githubusercontent.com/whitesoundcl/arduino-termometro/master/Esquema.png "Logo Title Text 1")
