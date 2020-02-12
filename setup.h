@@ -8,19 +8,19 @@ pinMode(4,OUTPUT);
 //Inicio de calibracion
 //inicio de HUD
 
-Serial.println("¡Inicializando!");
-Serial.println("calibrando servomotor");
+Serial.println(F("¡Inicializando!"));
+Serial.println(F("calibrando servomotor"));
 delay(500);
-Serial.print("Posicion 0...");
+Serial.print(F("Posicion 0..."));
 myservo.write(0); 
 delay(500);
-Serial.println("OK");
-Serial.print("Posicion 180...");
+Serial.println(F("OK"));
+Serial.print(F("Posicion 180..."));
 myservo.write(176); 
 delay(500);
-Serial.println("OK");
-Serial.println("");
-Serial.println("Calculando");
+Serial.println(F("OK"));
+Serial.println(F(""));
+Serial.println(F("Calculando"));
 
 //termino de calibracion
 //termino de HUD
